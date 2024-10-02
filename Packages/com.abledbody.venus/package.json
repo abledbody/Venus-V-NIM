@@ -1,0 +1,10 @@
+{
+	"name": "com.abledbody.venus",
+	"version": "0.0.0",
+	
+	"displayName": "Venus",
+	"author": "abledbody",
+	"dependencies": {
+		"com.abledbody.quickbin": "1.5.2"
+	}
+}

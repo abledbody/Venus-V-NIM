@@ -1,0 +1,16 @@
+{
+    "name": "com.abledbody.venus",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f87a650e8a9647b4b95caf55cbc02346"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
